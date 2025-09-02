@@ -29,7 +29,7 @@ E-commerce platform selling Arduino components. Features admin & user interfaces
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/thimira-wassana](https://www.linkedin.com/in/thimira-wassana-724007382/))  
+- [LinkedIn](https://www.linkedin.com/in/thimira-wassana-724007382/)  
 - [Email](mailto:thimiraw3@gmail.com)  
 
 ---
