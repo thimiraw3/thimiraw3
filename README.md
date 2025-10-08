@@ -26,6 +26,10 @@ I'm a passionate software engineer from Sri Lanka. I love building projects with
 [GitHub Repo](https://github.com/thimiraw3/arduino-srilanka)  
 E-commerce platform selling Arduino components. Features admin & user interfaces.
 
+### **Python Projects**
+[GitHub Repo](https://github.com/thimiraw3/python)  
+A Little Collection of My Python Projects.
+
 ---
 
 ## 📫 Connect with Me
