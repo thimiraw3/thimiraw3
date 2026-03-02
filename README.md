@@ -34,7 +34,7 @@ E-commerce platform selling Arduino components. Features admin & user interfaces
 A Little Collection of My Python Projects.
 
 ### **Java EE Projects**
-[GitHub Repo]([https://github.com/thimiraw3/Ledgerr](https://github.com/thimiraw3/Java-EE-Projects))  
+[GitHub Repo](https://github.com/thimiraw3/Java-EE-Projects)  
 A collection of hands-on Java backend projects built as part of my personal learning journey. 
 Each project tackles real-world features — REST APIs, authentication, database design, and more — using the Java ecosystem.
 
