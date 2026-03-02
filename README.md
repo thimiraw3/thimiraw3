@@ -1,7 +1,10 @@
 # Hi, I'm Thimira 👋
 
 ## About Me
-I'm a passionate software engineer from Sri Lanka. I love building projects with Arduino, ESP32, and exploring full-stack development. 
+Curious about emerging tech and love to build projects across robotics, IoT, and full-stack development.  
+Passionate about learning/Exploring AI, cloud, data, and cybersecurity while developing end-to-end software solutions.
+
+### ♡ Creating hands-on projects with Arduino & ESP32.  
 
 
 - 🌱 Currently learning: **AI, Cloud, Cybersecurity**
@@ -13,9 +16,9 @@ I'm a passionate software engineer from Sri Lanka. I love building projects with
 ## 🛠 Skills
 
 **Languages:** Java, Python, JavaScript, HTML, CSS  
-**Frameworks & Libraries:** React, Node.js, JFreeChart, Bootstrap 
-**Databases:** MySQL, MongoDB(Still Learning)  
-**Tools & Platforms:** Arduino, ESP32, Git/GitHub, VSCode, Netbeans  
+**Frameworks & Libraries:** React, Node.js, JFreeChart, Bootstrap  
+**Databases:** MySQL, MongoDB  
+**Tools & Platforms:** Arduino, ESP32, Git/GitHub, VSCode, Netbeans, IntelliJ IDEA  
 **Other:** IoT, Robotics  
 
 ---
@@ -30,9 +33,10 @@ E-commerce platform selling Arduino components. Features admin & user interfaces
 [GitHub Repo](https://github.com/thimiraw3/python)  
 A Little Collection of My Python Projects.
 
-### **Ledgerr**
-[GitHub Repo](https://github.com/thimiraw3/Ledgerr)  
-A web-based full-stack invoicing system built with Java.
+### **Java EE Projects**
+[GitHub Repo]([https://github.com/thimiraw3/Ledgerr](https://github.com/thimiraw3/Java-EE-Projects))  
+A collection of hands-on Java backend projects built as part of my personal learning journey. 
+Each project tackles real-world features — REST APIs, authentication, database design, and more — using the Java ecosystem.
 
 ---
 
