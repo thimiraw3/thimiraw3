@@ -2,7 +2,7 @@
 
 ## About Me
 Curious about emerging tech and love to build projects across robotics, IoT, and full-stack development.  
-Passionate about learning/Exploring AI, cloud, data, and cybersecurity while developing end-to-end software solutions.
+Passionate about learning/exploring AI, cloud, data, and cybersecurity while developing end-to-end software solutions.
 
 ### ♡ Creating hands-on projects with Arduino & ESP32.  
 
@@ -28,6 +28,10 @@ Passionate about learning/Exploring AI, cloud, data, and cybersecurity while dev
 ### **Arduino Sri Lanka E-Commerce**
 [GitHub Repo](https://github.com/thimiraw3/arduino-srilanka)  
 E-commerce platform selling Arduino components. Features admin & user interfaces.
+
+### **AssignMate**
+[GitHub Repo](https://github.com/thimiraw3/assignmate)  
+A full-stack assignment management application for students.  
 
 ### **Python Projects**
 [GitHub Repo](https://github.com/thimiraw3/python)  
